@@ -1,0 +1,43 @@
+-- sys -------------------------------------------------------
+                        version: 5.5
+                       coverage: /Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/coverage/__init__.py
+                         tracer: -none-
+                        CTracer: available
+           plugins.file_tracers: -none-
+            plugins.configurers: -none-
+      plugins.context_switchers: -none-
+              configs_attempted: .coveragerc
+                                 setup.cfg
+                                 tox.ini
+                                 pyproject.toml
+                   configs_read: -none-
+                    config_file: None
+                config_contents: -none-
+                      data_file: -none-
+                         python: 3.7.5 (v3.7.5:5c02a39a0b, Oct 14 2019, 18:49:57) [Clang 6.0 (clang-600.0.57)]
+                       platform: Darwin-19.6.0-x86_64-i386-64bit
+                 implementation: CPython
+                     executable: /Library/Frameworks/Python.framework/Versions/3.7/bin/python3.7
+                   def_encoding: utf-8
+                    fs_encoding: utf-8
+                            pid: 3837
+                            cwd: /Users/parkur/dev/quandl/test01
+                           path: /Library/Frameworks/Python.framework/Versions/3.7/bin
+                                 /Library/Frameworks/Python.framework/Versions/3.7/lib/python37.zip
+                                 /Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7
+                                 /Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/lib-dynload
+                                 /Users/parkur/Library/Python/3.7/lib/python/site-packages
+                                 /Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages
+                    environment: PYENV_ROOT = /Users/parkur/.pyenv
+                                 __PYVENV_LAUNCHER__ = /Library/Frameworks/Python.framework/Versions/3.7/bin/python3.7
+                   command_line: /Library/Frameworks/Python.framework/Versions/3.7/bin/coverage debug sys
+                sqlite3_version: 2.6.0
+         sqlite3_sqlite_version: 3.28.0
+             sqlite3_temp_store: 0
+        sqlite3_compile_options: COMPILER=clang-6.0.0
+                                 ENABLE_FTS3_PARENTHESIS
+                                 ENABLE_FTS4
+                                 ENABLE_FTS5
+                                 ENABLE_JSON1
+                                 ENABLE_RTREE
+                                 THREADSAFE=1
