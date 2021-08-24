@@ -1,4 +1,4 @@
-# Demo Tests in Djano
+# Demo Tests in Django
 
 ### 1. Using coverage
 
